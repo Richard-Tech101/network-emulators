@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Sandbox and test files
-sandbox.py
+Provisioning_sample.py
 
 # C extensions
 *.so
